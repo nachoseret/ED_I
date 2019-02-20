@@ -1,3 +1,6 @@
+// NUNCA ME SENTI TAN MAL
+// TENIENDO TANTO POR QUE SENTIRME BIEN
+
 #include <stdio.h>
 #include <stdlib.h>
 
